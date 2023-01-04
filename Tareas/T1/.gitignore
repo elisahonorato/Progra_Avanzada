@@ -1,0 +1,12 @@
+*.__pycache__/
+*.funciones_generales/__pycache__
+*.py[cod]
+*$py.class
+
+*Enunciado.pdf
+*programones.csv
+*entrenadores.csv
+*objetos.csv
+*evoluciones.csv
+*.DS_STORE.DS_Store
+.DS_store

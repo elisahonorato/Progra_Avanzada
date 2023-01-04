@@ -1,0 +1,13 @@
+#Enunciado
+*Enunciado.pdf
+
+#Assets
+/cliente/sprites
+/cliente/test.py
+
+#Otros
+*/__pycache__/
+/__pycache__/
+*.DS_STORE.DS_Store
+.DS_store
+
